@@ -26,9 +26,7 @@ Download the installer and run the setup to install application.
 
 Download and install the application as mentioned in [Installation](#Installation) .
 
-```html
 Open the application.Then you can download hsl m3u8 streams by entering the m3u8 content or just entering a downloaded m3u8 file.
-```
 
 ## Visuals
 
@@ -63,4 +61,3 @@ Copyright (C) Zworld Inc - All Rights Reserved
 ## Project status
 
 Active.
-
