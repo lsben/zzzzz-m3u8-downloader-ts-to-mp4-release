@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.523f09c5.chunk.css",
+    "main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.70f52074.chunk.js",
+    "main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.70f52074.chunk.js.map",
+    "runtime-main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/runtime-main.d44ecc7e.js",
+    "runtime-main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/runtime-main.d44ecc7e.js.map",
+    "static/js/2.eb88fb70.chunk.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.eb88fb70.chunk.js",
+    "static/js/2.eb88fb70.chunk.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.eb88fb70.chunk.js.map",
+    "index.html": "/zzzzz-m3u8-downloader-ts-to-mp4-release/index.html",
+    "precache-manifest.0beab6e54ee797b7a660135621e6dfac.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.0beab6e54ee797b7a660135621e6dfac.js",
+    "service-worker.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.eb88fb70.chunk.js.LICENSE.txt": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.eb88fb70.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d44ecc7e.js",
+    "static/js/2.eb88fb70.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.70f52074.chunk.js"
+  ]
+}
