@@ -16,9 +16,11 @@ This is an application designed for windows.
 
 ![Latest Release](https://img.shields.io/github/v/release/lsben/zzzzz-m3u8-downloader-ts-to-mp4-release?logo=GitHub)
 
-You can download the latest msi setup (Installer) from the below link.
+You can download the latest msi setup (Installer) from any of the below links. Use the second link if you want a zip file of installer.
 
-[Click here to download](https://google.com)
+To Download Application installer , [Click here](https://github.com/lsben/zzzzz-m3u8-downloader-ts-to-mp4-release/releases/download/1.0.0/Lsforever.m3u8.downloader.setup.Installer.msi)
+
+To Download zip file of installer , [Click here](https://github.com/lsben/zzzzz-m3u8-downloader-ts-to-mp4-release/releases/download/1.0.0/Lsforever.m3u8.downloader.setup.Installer.zip)
 
 Download the installer and run the setup to install application.
 
@@ -50,7 +52,7 @@ Pull requests are welcome if you want to make suggessions as mentioned above.
 
 [@lsben](https://github.com/lsben)
 
-Show your appreciation to those who have contributed to the project.
+Star the project if you like it.
 
 ## License
 
