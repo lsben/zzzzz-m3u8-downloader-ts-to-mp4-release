@@ -21,7 +21,7 @@ const TopPart = (props) => {
     <div style={{ backgroundColor: "#03A9F4" , marginTop:0, marginBottom: 0 , textAlign: "center", color:"white" }}>
       <Jumbotron style={{ backgroundColor: "#03A9F4", marginTop:0, marginBottom: 0 ,paddingTop:10,paddingBottom:30}}>
         <img alt="LSFOREVER" src={logo} type='svg' className="icona" style={{ width: 200, height: 200 }} />
-        <h1 className="display-3"  style={{color:"#212121", textShadow: "3px 5px 10px #000"}} >LSFOREVER m3u8 downloader</h1>
+        <h1 className="display-3"  style={{color:"#212121", textShadow: "3px 5px 10px #000", fontSize:"3.5rem"}} >LSFOREVER m3u8 downloader</h1>
         <p className="lead">This application lets you to download stream videos with m3u8 files..</p>
         <hr className="my-2"  />
         <p>Hsl m3u8 downloader alows you to download m3u8 ts file parts and merge into a playable mp4 video. You can download stream videos from websites using this if you know how to locate m3u8 file using network tab of your browser.</p>
