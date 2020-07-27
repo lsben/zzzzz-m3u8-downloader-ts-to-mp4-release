@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.523f09c5.chunk.css",
-    "main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.c67277a9.chunk.js",
-    "main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.c67277a9.chunk.js.map",
+    "main.css": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.b124e24f.chunk.css",
+    "main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.0030db5e.chunk.js",
+    "main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.0030db5e.chunk.js.map",
     "runtime-main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/runtime-main.d44ecc7e.js",
     "runtime-main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/runtime-main.d44ecc7e.js.map",
-    "static/js/2.eb88fb70.chunk.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.eb88fb70.chunk.js",
-    "static/js/2.eb88fb70.chunk.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.eb88fb70.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2a2489a2.chunk.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.2a2489a2.chunk.js",
+    "static/js/2.2a2489a2.chunk.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.2a2489a2.chunk.js.map",
     "index.html": "/zzzzz-m3u8-downloader-ts-to-mp4-release/index.html",
-    "precache-manifest.d4b1e37306cbd05b42ae8ed474e97076.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.d4b1e37306cbd05b42ae8ed474e97076.js",
+    "precache-manifest.b06c79eefb44b350d26c0b6cc8d32424.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.b06c79eefb44b350d26c0b6cc8d32424.js",
     "service-worker.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.eb88fb70.chunk.js.LICENSE.txt": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.eb88fb70.chunk.js.LICENSE.txt",
+    "static/css/2.af3c1da9.chunk.css.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b124e24f.chunk.css.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.b124e24f.chunk.css.map",
+    "static/js/2.2a2489a2.chunk.js.LICENSE.txt": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.2a2489a2.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/media/logo.950f6751.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d44ecc7e.js",
-    "static/js/2.eb88fb70.chunk.js",
-    "static/css/main.523f09c5.chunk.css",
-    "static/js/main.c67277a9.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2a2489a2.chunk.js",
+    "static/css/main.b124e24f.chunk.css",
+    "static/js/main.0030db5e.chunk.js"
   ]
 }
