@@ -6,6 +6,8 @@ Hsl m3u8 downloader alows you to download m3u8 ts file parts and merge into a pl
 
 You can download m3u8 streams with both file or copy pasting the m3u8 file content.
 
+[Go to website. ](https://lsben.github.io/zzzzz-m3u8-downloader-ts-to-mp4-release)
+
 ## Platform & Version Support
 
 This is an application designed for windows.
