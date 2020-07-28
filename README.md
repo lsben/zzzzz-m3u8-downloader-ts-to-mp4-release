@@ -56,8 +56,6 @@ Star the project if you like it.
 
 ## License
 
-License [MIT](https://choosealicense.com/licenses/mit/)
-
 Copyright (C) Zworld Inc - All Rights Reserved
 
 ## Project status
