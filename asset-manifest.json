@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.b124e24f.chunk.css",
-    "main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.a6f3f3f7.chunk.js",
-    "main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.a6f3f3f7.chunk.js.map",
+    "main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.727487bb.chunk.js",
+    "main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.727487bb.chunk.js.map",
     "runtime-main.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/runtime-main.d44ecc7e.js",
     "runtime-main.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/runtime-main.d44ecc7e.js.map",
     "static/css/2.af3c1da9.chunk.css": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/2.af3c1da9.chunk.css",
     "static/js/2.2a2489a2.chunk.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.2a2489a2.chunk.js",
     "static/js/2.2a2489a2.chunk.js.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.2a2489a2.chunk.js.map",
     "index.html": "/zzzzz-m3u8-downloader-ts-to-mp4-release/index.html",
-    "precache-manifest.6c58c5323417c55ed7998590861ee62e.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.6c58c5323417c55ed7998590861ee62e.js",
+    "precache-manifest.2c1d0f3333f4d14e52b680c9b085d89e.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.2c1d0f3333f4d14e52b680c9b085d89e.js",
     "service-worker.js": "/zzzzz-m3u8-downloader-ts-to-mp4-release/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.b124e24f.chunk.css.map": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.b124e24f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2a2489a2.chunk.js",
     "static/css/main.b124e24f.chunk.css",
-    "static/js/main.a6f3f3f7.chunk.js"
+    "static/js/main.727487bb.chunk.js"
   ]
 }

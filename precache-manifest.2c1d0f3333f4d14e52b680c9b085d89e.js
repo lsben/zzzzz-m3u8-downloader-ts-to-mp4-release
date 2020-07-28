@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "407e1765fa7f9fd7460dd48308a1d9b4",
+    "revision": "aa03c2890be3ae58b618384b44136479",
     "url": "/zzzzz-m3u8-downloader-ts-to-mp4-release/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "23979743213b903b141b",
+    "revision": "cd217fb0cd3f696bc0ef",
     "url": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/css/main.b124e24f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/2.2a2489a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23979743213b903b141b",
-    "url": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.a6f3f3f7.chunk.js"
+    "revision": "cd217fb0cd3f696bc0ef",
+    "url": "/zzzzz-m3u8-downloader-ts-to-mp4-release/static/js/main.727487bb.chunk.js"
   },
   {
     "revision": "a5ea424f4ae9f1940dff",
