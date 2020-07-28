@@ -108,7 +108,7 @@ const DocPart = (props) => {
         </Row>
         <Row>
           <Col>
-            <p>License <a href="https://choosealicense.com/licenses/mit/">MIT</a></p>
+            <p>Copyright (C) Zworld Inc. All rights reserved.</p>
           </Col>
         </Row>
 

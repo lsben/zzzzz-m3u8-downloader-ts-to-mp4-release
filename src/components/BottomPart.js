@@ -4,7 +4,7 @@ import React from 'react';
 function copyrightYear() {
     var d = new Date();
     var y = d.getFullYear();
-    return 'Copyright © ' + y + ' Zworld Inc';
+    return 'Copyright © ' + y + ' Zworld Inc. All rights reserved.';
  }
  
  const BottomPart = (props) => {
