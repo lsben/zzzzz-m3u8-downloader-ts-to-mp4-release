@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.dc39b061ad666d3b42dcf2d716d80d04.js"
+  "/zzzzz-m3u8-downloader-ts-to-mp4-release/precache-manifest.6c58c5323417c55ed7998590861ee62e.js"
 );
 
 self.addEventListener('message', (event) => {
